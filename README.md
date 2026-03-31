@@ -17,9 +17,10 @@ This project is mainly built for practice and learning purposes.
 - CSS3
 
 ## ▶️ How to Run This Project
-1. Download or clone the repository
-2. Open the `index.html` file in any web browser
-3. Or use Live Server in VS Code
+1.https://mojahidislamcoding1.github.io/Soikot_Sir_er_Project/
+2.  Download or clone the repository
+3. Open the `index.html` file in any web browser
+4. Or use Live Server in VS Code
 
 ## 📷 Preview
 (Screenshot will be added soon)
